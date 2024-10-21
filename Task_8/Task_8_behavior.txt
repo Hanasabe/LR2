@@ -1,0 +1,2 @@
+g++ -fsanitize=behavior -g -o behavior8 Task_8.cpp
+./behavior8

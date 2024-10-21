@@ -1,0 +1,2 @@
+g++ -fsanitize=leak -g -o leak8 Task_8.cpp
+./leak8
